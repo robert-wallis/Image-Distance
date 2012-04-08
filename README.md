@@ -11,5 +11,6 @@ This could be useful for comparing screen captures of a website to see how much 
     $ python levenshtein.py image1.png image2.png
     levenshtein distance: 1303 error: 0.091632%
 
+    #!/usr/local/bin/python
     import image_distance
     distance, error_max = image_distance.compare(filename_a, filename_b)
