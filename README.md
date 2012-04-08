@@ -1,4 +1,4 @@
-# This project is currently in pre ALPHA stage.
+# This project is currently in pre-ALPHA stage.
 Meaning, it's under development and doesn't really work at all.
 
 ## Purpose
