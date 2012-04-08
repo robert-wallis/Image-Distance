@@ -8,5 +8,5 @@ This could be useful for comparing screen captures of a website to see how much 
 
 ## Usage
 
-    $ python img_levenshtein.py image1.png image2.png
+    $ python levenshtein.py image1.png image2.png
     levenshtein distance: 1303 error: 0.091632%
