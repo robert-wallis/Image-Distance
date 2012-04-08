@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 """
-    To run from the command line, specify the two file names
-    as paramaters.
+Copyright (C) 2012 Robert A. Wallis, All Rights Reserved.
+
+To run from the command line, specify the two file names
+as paramaters.
 """
 import sys
 from PIL import Image
