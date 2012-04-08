@@ -7,10 +7,11 @@ To provide a [levenshtein distance](http://en.wikipedia.org/wiki/Levenshtein_dis
 This could be useful for comparing screen captures of a website to see how much changed.
 
 ## Usage
-
-    $ python levenshtein.py image1.png image2.png
-    levenshtein distance: 1303 error: 0.091632%
-
-    #!/usr/local/bin/python
-    import image_distance
-    distance, error_max = image_distance.compare(filename_a, filename_b)
+```bash
+python levenshtein.py image1.png image2.png
+# levenshtein distance: 1303 error: 0.091632%
+```
+```python
+import image_distance
+distance, error_max = image_distance.compare(filename_a, filename_b)
+```
